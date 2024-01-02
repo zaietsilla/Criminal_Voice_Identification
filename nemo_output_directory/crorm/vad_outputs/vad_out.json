@@ -1,0 +1,5 @@
+{"audio_filepath": "voxconverse_test_wav/crorm.wav", "offset": 0.0, "duration": 229.17, "label": "UNK", "uniq_id": "crorm"}
+{"audio_filepath": "voxconverse_test_wav/crorm.wav", "offset": 229.72, "duration": 60.64999, "label": "UNK", "uniq_id": "crorm"}
+{"audio_filepath": "voxconverse_test_wav/crorm.wav", "offset": 290.92001, "duration": 143.76999, "label": "UNK", "uniq_id": "crorm"}
+{"audio_filepath": "voxconverse_test_wav/crorm.wav", "offset": 435.23999, "duration": 252.09003, "label": "UNK", "uniq_id": "crorm"}
+{"audio_filepath": "voxconverse_test_wav/crorm.wav", "offset": 688.12, "duration": 223.048, "label": "UNK", "uniq_id": "crorm"}

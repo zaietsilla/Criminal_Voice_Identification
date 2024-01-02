@@ -1,0 +1,7 @@
+{"audio_filepath": "voxconverse_test_wav/clfcg.wav", "duration": 50, "label": "infer", "text": "_", "offset": 0}
+{"audio_filepath": "voxconverse_test_wav/clfcg.wav", "duration": 50.63, "label": "infer", "text": "_", "offset": 49.37}
+{"audio_filepath": "voxconverse_test_wav/clfcg.wav", "duration": 50.63, "label": "infer", "text": "_", "offset": 99.37}
+{"audio_filepath": "voxconverse_test_wav/clfcg.wav", "duration": 50.63, "label": "infer", "text": "_", "offset": 149.37}
+{"audio_filepath": "voxconverse_test_wav/clfcg.wav", "duration": 50.63, "label": "infer", "text": "_", "offset": 199.37}
+{"audio_filepath": "voxconverse_test_wav/clfcg.wav", "duration": 50.63, "label": "infer", "text": "_", "offset": 249.37}
+{"audio_filepath": "voxconverse_test_wav/clfcg.wav", "duration": 19.350000000000026, "label": "infer", "text": "_", "offset": 299.37}
