@@ -1,0 +1,4 @@
+{"audio_filepath": "voxconverse_test_wav/aiqwk.wav", "duration": 50, "label": "infer", "text": "_", "offset": 0}
+{"audio_filepath": "voxconverse_test_wav/aiqwk.wav", "duration": 50.63, "label": "infer", "text": "_", "offset": 49.37}
+{"audio_filepath": "voxconverse_test_wav/aiqwk.wav", "duration": 50.63, "label": "infer", "text": "_", "offset": 99.37}
+{"audio_filepath": "voxconverse_test_wav/aiqwk.wav", "duration": 49.478000000000016, "label": "infer", "text": "_", "offset": 149.37}
