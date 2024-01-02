@@ -1,0 +1,4 @@
+{"audio_filepath": "voxconverse_test_wav/fpfvy.wav", "offset": 0.0, "duration": 10.61, "label": "UNK", "uniq_id": "fpfvy"}
+{"audio_filepath": "voxconverse_test_wav/fpfvy.wav", "offset": 11.48, "duration": 73.61, "label": "UNK", "uniq_id": "fpfvy"}
+{"audio_filepath": "voxconverse_test_wav/fpfvy.wav", "offset": 85.88, "duration": 14.17001, "label": "UNK", "uniq_id": "fpfvy"}
+{"audio_filepath": "voxconverse_test_wav/fpfvy.wav", "offset": 101.0, "duration": 20.92, "label": "UNK", "uniq_id": "fpfvy"}
