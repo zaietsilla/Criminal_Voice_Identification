@@ -1,0 +1,3 @@
+{"audio_filepath": "voxconverse_test_wav/eguui.wav", "duration": 50, "label": "infer", "text": "_", "offset": 0}
+{"audio_filepath": "voxconverse_test_wav/eguui.wav", "duration": 50.63, "label": "infer", "text": "_", "offset": 49.37}
+{"audio_filepath": "voxconverse_test_wav/eguui.wav", "duration": 9.429999999999998, "label": "infer", "text": "_", "offset": 99.37}
